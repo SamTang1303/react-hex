@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-hex.io/static/css/main.2ba6ab62.css",
-    "main.js": "/react-hex.io/static/js/main.760adbdb.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-hex.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/transparent_purple.svg": "/react-hex.io/static/media/transparent_purple.281da8afcabb42b4411febc1f0fb9ba3.svg",
-    "static/media/transparent_blue.svg": "/react-hex.io/static/media/transparent_blue.0975c752af60211431ae396b33d77885.svg",
-    "static/media/transparent_red.svg": "/react-hex.io/static/media/transparent_red.e77a1da345e7adfb871de30114d2ce59.svg",
-    "static/media/hexagon-geometrical-shape-outline-svgrepo-com.svg": "/react-hex.io/static/media/hexagon-geometrical-shape-outline-svgrepo-com.fba2b21ce32a46560fea64908518608f.svg",
-    "static/media/hexagon-geometrical-shape-outline-svgrepo-com-blue.svg": "/react-hex.io/static/media/hexagon-geometrical-shape-outline-svgrepo-com-blue.2e5bcf7f05bd7fe5cd59c43b930bfc26.svg",
-    "static/media/hexagon-geometrical-shape-outline-svgrepo-com-red.svg": "/react-hex.io/static/media/hexagon-geometrical-shape-outline-svgrepo-com-red.80d3657aefa50d924855192ffb6badaa.svg",
-    "index.html": "/react-hex.io/index.html",
-    "main.2ba6ab62.css.map": "/react-hex.io/static/css/main.2ba6ab62.css.map",
-    "main.760adbdb.js.map": "/react-hex.io/static/js/main.760adbdb.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-hex.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/react-hex/static/css/main.2ba6ab62.css",
+    "main.js": "/react-hex/static/js/main.d8897ceb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-hex/static/js/787.28cb0dcd.chunk.js",
+    "static/media/transparent_purple.svg": "/react-hex/static/media/transparent_purple.281da8afcabb42b4411febc1f0fb9ba3.svg",
+    "static/media/transparent_blue.svg": "/react-hex/static/media/transparent_blue.0975c752af60211431ae396b33d77885.svg",
+    "static/media/transparent_red.svg": "/react-hex/static/media/transparent_red.e77a1da345e7adfb871de30114d2ce59.svg",
+    "static/media/hexagon-geometrical-shape-outline-svgrepo-com.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com.fba2b21ce32a46560fea64908518608f.svg",
+    "static/media/hexagon-geometrical-shape-outline-svgrepo-com-blue.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com-blue.2e5bcf7f05bd7fe5cd59c43b930bfc26.svg",
+    "static/media/hexagon-geometrical-shape-outline-svgrepo-com-red.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com-red.80d3657aefa50d924855192ffb6badaa.svg",
+    "index.html": "/react-hex/index.html",
+    "main.2ba6ab62.css.map": "/react-hex/static/css/main.2ba6ab62.css.map",
+    "main.d8897ceb.js.map": "/react-hex/static/js/main.d8897ceb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-hex/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ba6ab62.css",
-    "static/js/main.760adbdb.js"
+    "static/js/main.d8897ceb.js"
   ]
 }
