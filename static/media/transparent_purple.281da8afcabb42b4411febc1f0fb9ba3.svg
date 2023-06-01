@@ -1,0 +1,25 @@
+<svg id="changeColor" fill="#DC7633" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="200" zoomAndPan="magnify"
+  viewBox="0 0 375 374.9999" height="200" preserveAspectRatio="xMidYMid meet" version="1.0">
+  <defs>
+    <path id="pathAttribute"
+      d="M 37.5 16.859375 L 333 16.859375 L 333 358.109375 L 37.5 358.109375 Z M 37.5 16.859375 "
+      stroke-width="12" stroke="#000000" fill="blue"></path>
+  </defs>
+  <g>
+    <path id="pathAttribute"
+      d="M 185.25 358.109375 L 185.035156 358 L 37.515625 272.707031 L 37.515625 102.046875 L 185.25 16.859375 L 185.464844 16.964844 L 332.984375 102.046875 L 332.984375 272.671875 L 332.773438 272.777344 Z M 38.332031 272.210938 L 185.25 357.183594 L 332.167969 272.210938 L 332.167969 102.507812 L 185.25 17.785156 L 38.332031 102.507812 Z M 185.25 330.117188 L 185.035156 330.007812 L 61.765625 258.691406 L 61.765625 116.0625 L 185.25 44.851562 L 308.734375 116.0625 L 308.734375 258.691406 L 308.523438 258.800781 Z M 62.582031 258.230469 L 185.25 329.15625 L 307.917969 258.230469 L 307.917969 116.523438 L 185.25 45.777344 L 62.582031 116.523438 Z M 62.582031 258.230469 "
+      fill-opacity=".5" fill-rule="nonzero" stroke-width="12" stroke="#000000" fill="red"></path>
+  </g>
+  <path id="pathAttribute"
+    d="M 50.03125 109.300781 L 185.25 31.335938 L 320.433594 109.300781 L 320.433594 265.449219 L 185.25 343.632812 L 50.03125 265.449219 L 50.03125 109.300781 "
+    fill-opacity=".25" fill-rule="nonzero" stroke-width="12" stroke="#000000" fill="purple"></path>
+  <g id="inner-icon" transform="translate(85, 75)">
+    <svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" fill="currentColor"
+      class="bi bi-hexagon" viewBox="0 0 16 16" id="IconChangeColor">
+      <path
+        d="M14 4.577v6.846L8 15l-6-3.577V4.577L8 1l6 3.577zM8.5.134a1 1 0 0 0-1 0l-6 3.577a1 1 0 0 0-.5.866v6.846a1 1 0 0 0 .5.866l6 3.577a1 1 0 0 0 1 0l6-3.577a1 1 0 0 0 .5-.866V4.577a1 1 0 0 0-.5-.866L8.5.134z"
+        id="mainIconPathAttribute"></path>
+    </svg>
+  </g>
+</svg>
