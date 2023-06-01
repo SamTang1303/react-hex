@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/react-hex/static/css/main.2ba6ab62.css",
-    "main.js": "/react-hex/static/js/main.d8897ceb.js",
+    "main.css": "/react-hex/static/css/main.87300e45.css",
+    "main.js": "/react-hex/static/js/main.f58e3025.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-hex/static/js/787.28cb0dcd.chunk.js",
-    "static/media/transparent_purple.svg": "/react-hex/static/media/transparent_purple.281da8afcabb42b4411febc1f0fb9ba3.svg",
+    "static/media/Aaargh.ttf": "/react-hex/static/media/Aaargh.3e5f9b2128ca1ff0602c.ttf",
+    "static/media/hexagon-geometrical-shape-outline-svgrepo-com.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com.e4108f7b21e46cd22091e74cc4176240.svg",
+    "static/media/hexagon-geometrical-shape-outline-svgrepo-com-blue.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com-blue.26d02e42357949795dd2176bc58ff4c5.svg",
+    "static/media/hexagon-geometrical-shape-outline-svgrepo-com-red.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com-red.34e25e7c5802608d61e9aa67ed126934.svg",
+    "static/media/transparent_purple.svg": "/react-hex/static/media/transparent_purple.ab9e9702251aa5d5c8a1349f7c79da85.svg",
     "static/media/transparent_blue.svg": "/react-hex/static/media/transparent_blue.0975c752af60211431ae396b33d77885.svg",
-    "static/media/transparent_red.svg": "/react-hex/static/media/transparent_red.e77a1da345e7adfb871de30114d2ce59.svg",
-    "static/media/hexagon-geometrical-shape-outline-svgrepo-com.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com.fba2b21ce32a46560fea64908518608f.svg",
-    "static/media/hexagon-geometrical-shape-outline-svgrepo-com-blue.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com-blue.2e5bcf7f05bd7fe5cd59c43b930bfc26.svg",
-    "static/media/hexagon-geometrical-shape-outline-svgrepo-com-red.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com-red.80d3657aefa50d924855192ffb6badaa.svg",
+    "static/media/transparent_red.svg": "/react-hex/static/media/transparent_red.08cee06a519963c5dd7935086a54bad1.svg",
     "index.html": "/react-hex/index.html",
-    "main.2ba6ab62.css.map": "/react-hex/static/css/main.2ba6ab62.css.map",
-    "main.d8897ceb.js.map": "/react-hex/static/js/main.d8897ceb.js.map",
+    "main.87300e45.css.map": "/react-hex/static/css/main.87300e45.css.map",
+    "main.f58e3025.js.map": "/react-hex/static/js/main.f58e3025.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-hex/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ba6ab62.css",
-    "static/js/main.d8897ceb.js"
+    "static/css/main.87300e45.css",
+    "static/js/main.f58e3025.js"
   ]
 }

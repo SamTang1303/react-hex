@@ -13,7 +13,7 @@
   </g>
   <path id="pathAttribute"
     d="M 50.03125 109.300781 L 185.25 31.335938 L 320.433594 109.300781 L 320.433594 265.449219 L 185.25 343.632812 L 50.03125 265.449219 L 50.03125 109.300781 "
-    fill-opacity=".25" fill-rule="nonzero" stroke-width="12" stroke="#000000" fill="purple"></path>
+    fill-opacity=".35" fill-rule="nonzero" stroke-width="12" stroke="#000000" fill="red"></path>
   <g id="inner-icon" transform="translate(85, 75)">
     <svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" fill="currentColor"
       class="bi bi-hexagon" viewBox="0 0 16 16" id="IconChangeColor">
