@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-hex/static/css/main.4fd06693.css",
-    "main.js": "/react-hex/static/js/main.ff26c90c.js",
+    "main.js": "/react-hex/static/js/main.47831666.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-hex/static/js/787.28cb0dcd.chunk.js",
     "static/media/Aaargh.ttf": "/react-hex/static/media/Aaargh.3e5f9b2128ca1ff0602c.ttf",
     "static/media/hexagon-geometrical-shape-outline-svgrepo-com.svg": "/react-hex/static/media/hexagon-geometrical-shape-outline-svgrepo-com.e4108f7b21e46cd22091e74cc4176240.svg",
@@ -12,11 +12,11 @@
     "static/media/transparent_red.svg": "/react-hex/static/media/transparent_red.08cee06a519963c5dd7935086a54bad1.svg",
     "index.html": "/react-hex/index.html",
     "main.4fd06693.css.map": "/react-hex/static/css/main.4fd06693.css.map",
-    "main.ff26c90c.js.map": "/react-hex/static/js/main.ff26c90c.js.map",
+    "main.47831666.js.map": "/react-hex/static/js/main.47831666.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-hex/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fd06693.css",
-    "static/js/main.ff26c90c.js"
+    "static/js/main.47831666.js"
   ]
 }
