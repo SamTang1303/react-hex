@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-hex/static/css/main.92d24ab1.css",
+    "main.css": "/react-hex/static/css/main.4fd06693.css",
     "main.js": "/react-hex/static/js/main.47831666.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-hex/static/js/787.28cb0dcd.chunk.js",
     "static/media/Aaargh.ttf": "/react-hex/static/media/Aaargh.3e5f9b2128ca1ff0602c.ttf",
@@ -11,12 +11,12 @@
     "static/media/transparent_blue.svg": "/react-hex/static/media/transparent_blue.0975c752af60211431ae396b33d77885.svg",
     "static/media/transparent_red.svg": "/react-hex/static/media/transparent_red.08cee06a519963c5dd7935086a54bad1.svg",
     "index.html": "/react-hex/index.html",
-    "main.92d24ab1.css.map": "/react-hex/static/css/main.92d24ab1.css.map",
+    "main.4fd06693.css.map": "/react-hex/static/css/main.4fd06693.css.map",
     "main.47831666.js.map": "/react-hex/static/js/main.47831666.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-hex/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92d24ab1.css",
+    "static/css/main.4fd06693.css",
     "static/js/main.47831666.js"
   ]
 }
